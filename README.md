@@ -21,9 +21,7 @@ git show 3e257ef1c864eb284ee6ef0434fc928b9a985ba9:tests/test_scan.py
 
 [Файл с флагом на GitHub](https://github.com/saleny/AIVulnScan/blob/3e257ef1c864eb284ee6ef0434fc928b9a985ba9/tests/test_scan.py#L12)
 
-![Флаг в старой версии файла](https://github.com/user-attachments/assets/47f7a223-e653-4fbd-8319-b2878c4ac6ff)
-
-
+<img width="1128" height="608" alt="image" src="https://github.com/user-attachments/assets/9055fae7-de25-49ab-8307-c7081a35d1b1" />
 
 ### 3. Удаление из кода
 В следующем [коммите `afe4d46`](https://github.com/saleny/AIVulnScan/commit/afe4d462b1c81b8e3faaaa882d04ee7be7829454) комментарий удалили. Однако предыдущий коммит остался доступен: обычное удаление строки не очищает историю Git.
